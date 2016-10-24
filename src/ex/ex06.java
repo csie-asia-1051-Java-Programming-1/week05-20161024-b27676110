@@ -4,12 +4,22 @@
  * Date: 2016/10/24
  * Author: 1050210XX 周永振老師
  */
-
+import java.util.Scanner;
 public class ex06 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Scanner scn = new Scanner(System.in);
+		int n = scn.nextInt();
+		String data[ ] = new String[n];
+		for(int i = 0;i<n;i++){
+			data[i] = scn.next();
+		}
+		for(int k =0;k<n;k++){
+			for(int l= 0;l<n;l++){
+				
+			}
+		}
 	}
 
 }
