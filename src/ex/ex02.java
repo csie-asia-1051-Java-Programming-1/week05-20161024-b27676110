@@ -1,6 +1,7 @@
 ﻿package ex;
 /*
  * Topic: 讓使用者輸入一正整數n，用while迴圈計算n!後輸出。
+
  * Date: 2016/10/24
  * Author: 105021036 鄭東欣
  */
